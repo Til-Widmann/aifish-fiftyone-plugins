@@ -8,9 +8,6 @@ import fiftyone as fo
 import os
 import subprocess
 
-from neptune.legacy import session
-
-
 class ClipVideo(foo.Operator):
     @property
     def config(self):
