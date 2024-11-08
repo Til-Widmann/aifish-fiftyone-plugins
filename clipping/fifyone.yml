@@ -1,0 +1,9 @@
+name: "aifish/clipper"
+description: Select information from github
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/aifish/aifish-fiftyone
+license: Apache 2.0
+operators:
+  - clip_video
