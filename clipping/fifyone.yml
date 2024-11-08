@@ -1,4 +1,4 @@
-name: "aifish/clipper"
+name: "@aifish/clipper"
 description: Select information from github
 version: 1.0.0
 fiftyone:
